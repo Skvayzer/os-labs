@@ -1,0 +1,500 @@
+   86  sudo chown -R tecmint:tecmint ./yay-git
+   87  sudo chown -R cosmos:cosmos ./yay-git
+   88  cd yay-git
+   89  makepkg -si
+   90  cd
+   91  sudo yay -Syu
+   92  flutter config --android-sdk
+   93  flutter doctor
+   94  sudo flutter doctor
+   95  sudo flutter config --android-sdk
+   96  yay -R flutter
+   97  yay -R android-sdk
+   98  Flutter failed to open a file at "/opt/flutter/bin/cache/lockfile". The flutter tool cannot access the file or directory. Please ensure that the SDK and/or project is installed in a location that has read/write permissions for the current user
+   99  Flutter failed to open a file at "/opt/flutter/bin/cache/lockfile". The flutter tool cannot access the file or directory. Please ensure that the SDK and/or project is installed in a location that has read/write permissions for the current user
+  100  Flutter failed to open a file at "/opt/flutter/bin/cache/lockfile". The flutter tool cannot access the file or directory. Please ensure that the SDK and/or project is installed in a location that has read/write permissions for the current user
+  101  sudo snap install android-sdk --classic
+  102  sudo snap install android-sdk
+  103  flutter sdk-path
+  104  sudo snap install android-sdk
+  105  sudo snap install android-sdk --classic
+  106  sudo flutter config --android-s
+  107  sudo snap install flutter --classic
+  108  flutter doctor
+  109  flutter clean
+  110  sudo snap install flutter --classic
+  111  flutter doctor
+  112  flutter clean
+  113  flutter clean
+  114  export PATH="$PATH:`pwd`/flutter/bin"
+  115  flutter clean
+  116  flutter doctor
+  117  flutter doctor
+  118  cd development/flutter/
+  119  export PATH="$PATH:`pwd`/flutter/bin"
+  120  flutter doctor
+  121  cd
+  122  cd development/
+  123  export PATH="$PATH:`pwd`/flutter/bin"
+  124  flutter doctor
+  125  flutter clean
+  126  cd
+  127  cd FlutterProjects/
+  128  ls
+  129  cd e
+  130  cd EmergencyApp-main/
+  131  flutter clean
+  132  ls
+  133  cd emergency_app/
+  134  flutter clean
+  135  flutter packages get
+  136  flutter packages upgrade
+  137  flutter sdk-path
+  138  snapd
+  139  sudo snap install flutter --classic
+  140  flutter
+  141  адгееук
+  142  flutter
+  143  flutter sdk-path
+  144  ls
+  145  cd FlutterProjects/
+  146  cd plane_chat/
+  147  git init -b main
+  148  git add .
+  149  git commit -m "First draft with sign up and sign in"
+  150  git remore add origin https://github.com/tsaplyadmitriy/flightbuddy
+  151  git remote add origin https://github.com/tsaplyadmitriy/flightbuddy
+  152  git remote -v
+  153  git push origin main
+  154  git push origin master --force
+  155  cd
+  156  cd
+  157  sudo fdisk -l
+  158  sudo wipefs --all /dev/sda
+  159  flutter build apk --release
+  160  cd FlutterProjects/
+  161  cd plane_chat/
+  162  git add .
+  163  git checkout -b dev
+  164  git commit -m "Added design of registration and log in screens, splash screen"
+  165  git remote add origin https://github.com/tsaplyadmitriy/flightbuddy
+  166  git push origin dev
+  167  flutter build apk --release
+  168  ls
+  169  flutter build apk --release
+  170  cd lib
+  171  ls
+  172  cd
+  173  cd FlutterProjects/
+  174  cd plane_chat/
+  175  flutter build apk --release
+  176  flutter build apk --release
+  177  ls
+  178  cd ios
+  179  ls
+  180  cd Runner
+  181  pod init
+  182  yaourt
+  183  yay
+  184  sudo pacman -S cocoapods
+  185  cd
+  186  cd FlutterProjects/
+  187  cd plane_chat/
+  188  git add .
+  189  git commit -m "Flight list"
+  190  git push origin dev
+  191  git push origin dev
+  192  git push origin dev
+  193  git add .
+  194  git commit -m "Add a flight screen"
+  195  git push origin dev
+  196  cd
+  197  cd FlutterProjects/
+  198  cd plane_chat/
+  199  flutter build apk --release
+  200  flutter build apk --release --no-daemon
+  201  flutter build apk --release
+  202  flutter build apk --release
+  203  flutter build apk --release
+  204  git add .
+  205  git commit -m "chat"
+  206  git push origin dev
+  207  flutter build apk --release
+  208  flutter build apk --release
+  209  flutter build apk --release
+  210  git add .
+  211  git commit -m "chat"
+  212  git push origin dev
+  213  flutter build apk --release
+  214  flutter build apk --release
+  215  git add .
+  216  git commit -m "design fixes"
+  217  git push origin dev
+  218  cd
+  219  sudo pacman -S chntpw
+  220  sfdisk -l
+  221  fdisk -l
+  222  sudo sfdisk -l
+  223  sudo mount /dev/nvme0n1p5 /mnt/Microsoft
+  224  sudo mount /dev/nvme0n1p5 /mnt/Microsoft/
+  225  chntpw -l SAM
+  226  cd config
+  227  chntpw -l SAM
+  228  chntpw -u CoSmOS SAM
+  229  reboot
+  230  git add .
+  231  git commit -m "chat btn animation, other fixes"
+  232  git push origin dev
+  233  git push origin dev
+  234  git push origin dev
+  235  git add .
+  236  git commit -m "chat btn animation, other fixes"
+  237  git push origin dev
+  238  flutter build apk --release
+  239  git add .
+  240  git commit -m "chat btn animation, other fixes"
+  241  git push origin dev
+  242  flutter build apk --release
+  243  св
+  244  cd
+  245  sudo pacman -S thefuck
+  246  ecjo Mark lapochka
+  247  fuck
+  248  thefuck --alias
+  249  eval "$(thefuck --alias)"
+  250  ecjo Mark lapochka
+  251  /usr/bin/nano /bin/sh +1 && ecjo Mark lapochka
+  252  fuck
+  253  e
+  254  ecjo Mark lapochka
+  255  echo Mark lapochka
+  256  ecjo Mark lapochka
+  257  /usr/bin/nano /bin/sh +1 && ecjo Mark lapochka
+  258  cd FlutterProjects/
+  259  cd plane_chat/
+  260  flutter build apk --release
+  261  flutter build apk --release
+  262  git add .
+  263  git commit -m "api, contacts in profile"
+  264  git push origin dev
+  265  flutter build apk --release
+  266  cd
+  267  yay
+  268  yay -S scrcpy
+  269  scrcopy
+  270  scrcpy
+  271  scrcpy
+  272  sudo nano /etc/bluetooth/main.conf
+  273  sudo systemctl restart bluetooth 
+  274  sudo nano /etc/bluetooth/main.conf
+  275  pacmd list-cards
+  276  pacmd list-sinks
+  277   pacmd set-card-profile 17 a2dp_sink
+  278  cd FlutterProjects/
+  279  cd plane_chat/
+  280  git add .
+  281  git commit -m "before redesign"
+  282  git push origin dev
+  283  flutter apk build --release
+  284  flutter build apk --release
+  285  flutter build apk --release
+  286  flutter build apk --release
+  287  flutter build apk --release
+  288  scrcpy
+  289  cd
+  290  cd Downloads/
+  291  cd
+  292  cd FlutterProjects/
+  293  cd plane_chat/
+  294  git add .
+  295  git commit -m "new design + avatars, new db"
+  296  git push origin dev
+  297  flutter build apk --release
+  298  git add .
+  299  git commit -m "new design + avatars, new db"
+  300  git push origin dev
+  301  git push origin dev
+  302  git push origin dev
+  303  flutter build apk --release
+  304  scrcopy
+  305  scrcop
+  306  scrcpy
+  307  pod init
+  308  yay
+  309  yay cocoapods
+  310  yay pods
+  311  sudo pacman -S ruby
+  312  gem
+  313  sudo gem install cocoapods
+  314  pod init
+  315  cocoapods
+  316  pods
+  317  pod
+  318  flutter build apk --release
+  319  flutter build apk --release
+  320  git add .
+  321  git commit -m "new design + avatars, new db"
+  322  git push origin dev
+  323  bluetoothctl
+  324  [200~sudo systemctl start bluetooth.service~
+  325  sudo systemctl start bluetooth.service
+  326  sudo systemctl enable bluetooth.service
+  327  sudo systemctl enable bluetooth.service
+  328  [200~bluetoothctl~
+  329  bluetoothctl
+  330  bluetoothctl
+  331  [200~
+  332      sudo modprobe btusb
+  333  ~
+  334      sudo systemctl start bluetooth
+  335      sudo systemctl enable bluetooth
+  336  sudo systemctl start bluetooth
+  337  bluetoothctl
+  338      sudo systemctl enable bluetooth
+  339  bluetoothctl
+  340  systemctl start bluetooth
+  341  bluetoothctl
+  342  systemctl stop bluetooth.service
+  343  systemctl enable bluetooth.service
+  344  systemctl start bluetooth.service
+  345  bluetoothctl
+  346  sudo pacman -S openssh-server
+  347  sudo pacman -S shh
+  348  yaourt shh
+  349  yum
+  350  yay
+  351  yay shh
+  352  yay openssh
+  353  pscp
+  354  yay putty
+  355  pscp
+  356  pscp /home/cosmos/Desktop/raps.jpg user@10.5.9.140: C:\Games
+  357  pscp -l 10.5.9.140:/home/cosmos/Desktop/raps.jpg C:\Games
+  358  pscp CoSmOS@10.5.9.140:/home/cosmos/Desktop/raps.jpg C:\Games
+  359  sudo pscp CoSmOS@10.5.9.140:/home/cosmos/Desktop/raps.jpg C:\Games
+  360  [200~sudo systemctl status sshd.service~
+  361  sudo systemctl status sshd.service~
+  362  sudo systemctl status sshd.service
+  363  sudo systemctl status sshd.service
+  364  sudo pscp CoSmOS@10.5.9.140:/home/cosmos/Desktop/raps.jpg C:\Games
+  365  sudo systemctl enable sshd.service
+  366  sudo pscp CoSmOS@10.5.9.140:/home/cosmos/Desktop/raps.jpg C:\Games
+  367  sudo systemctl status sshd.service
+  368  sudo systemctl status sshd.service
+  369  sudo systemctl start sshd.service
+  370  sudo systemctl status sshd.service
+  371  sudo pscp CoSmOS@10.5.9.140:/home/cosmos/Desktop/raps.jpg C:\Games
+  372  sudo pacman -Syu
+  373  sudo bluetoothctl
+  374  sudo pacman -S bluez bluez-utils
+  375  sudo modprobe btusb
+  376  sudo systemctl start bluetooth
+  377  sudo systemctl enable bluetooth
+  378  bluez
+  379  sudo bluetoothctl
+  380  sudo rfkill unblock all
+  381  sudo bluetoothctl
+  382  sudo rfkill unblock bluetooth
+  383  sudo bluetoothctl
+  384  bluetoothctl power on
+  385  Failed to set power on: org.bluez.Error.Busy
+  386  rfkill list
+  387  sudo hciconfig hci0 up/down
+  388  sudo pacman -S bluez
+  389  sudo pacman -S hciconfig
+  390  sudo pacman -S hci0
+  391  sudo systemctl restart bluetooth
+  392  bluetoothctl
+  393  sudo pacman -S bluez-deprecated
+  394  yay bluez
+  395  bluetoothctl
+  396  bluetoothctl
+  397  systemctl status bluetooth
+  398  sudo pacman -Syu
+  399  lsusb
+  400  nano /etc/default/tlp
+  401  sudo pacman -S tlp
+  402  nano /etc/default/tlp
+  403  cd etc
+  404  nano /etc/tlp.conf
+  405  nano /etc/tlp.conf
+  406  sudo nano /etc/tlp.conf
+  407  bluetoothctl
+  408  bluetoothctl
+  409  sudo systemctl start bluetooth.service
+  410  sudo systemctl enable bluetooth.service
+  411  bluetoothctl
+  412  sudo pacman -S tor
+  413  sudo pacman -S tor-browser
+  414  yay tor-browser
+  415  yay tor-browser
+  416  sudo pacman -S heroku
+  417  yay heroku
+  418  heroku login
+  419  snap
+  420  sudo snap install heroku --classic
+  421  heroku login
+  422  heroku git:clone -a yacenkoeveryday
+  423  heroku git:clone -a yacenko
+  424  cd yacenko
+  425  git add .
+  426  git commit -am "retrieving files"
+  427  git push heroku master
+  428  heroku slugs:download -a yacenko
+  429  heroku slugs:download -a yacenko
+  430  heroku plugins:install heroku-slugs
+  431  heroku slugs:download -a yacenko
+  432  cd
+  433  sudo pacman -S postgresql
+  434  psql
+  435  pip
+  436  pip install virtualenv
+  437  pip install sqlalchemy
+  438  pip install pandas
+  439  cd Desktop/
+  440  cd yacenkoeveryday-master/
+  441  heroku login
+  442  heroku git:remote -a yacenko
+  443  cd
+  444  heroku login
+  445  heroku git:remote -a yacenko
+  446  cd Desktop/
+  447  cd yacenkoeveryday-master/
+  448  git init
+  449  git add .
+  450  git commit -m "now you can add photos and quotes"
+  451  heroku git:remote -a yacenko
+  452  git push heroku master
+  453  rake assets:precompile
+  454  git checkout -b master
+  455  git pull 
+  456  git pull heroku master
+  457  git push heroku master
+  458  git push -f heroku master
+  459  heroku logs
+  460  cd
+  461  yay unityhub
+  462  ls
+  463  mkdir UnityProjects
+  464  cd UnityProjects/
+  465  mkdir InnoclassAI
+  466  cd InnoclassAI/
+  467  git clone https://github.com/HippocampusTeam/InnoclassAI
+  468  cd
+  469  cd UnityProjects/
+  470  git clone https://github.com/HippocampusTeam/Innoclass
+  471  cd
+  472  yay mono
+  473  nmtui
+  474  nmtui
+  475  nmcli -p device~
+  476  nmcli -p device
+  477  nmtui
+  478  nmtui
+  479  nmtui
+  480    
+  481    
+  482  nmtui
+  483  nmcli c up enp3s0f3u1u1
+  484  ifdown enp3s0f3u1u1
+  485  nmtui
+  486  ip addr
+  487  ip
+  488  sudo pacman -Syu
+  489  ipconfig
+  490  ip li sh eth0
+  491  ip li sh eth0 enp3s0f3u1u1
+  492  ip li sh enp3s0f3u1u1
+  493  ethtool enp3s0f3u1u1
+  494  sudo pacman -Syu
+  495  yay linux-wifi-hotspot
+  496  sudo snap install hotspot-launcher
+  497  sudo snap install hotspot-launcher --beta
+  498  nmtui
+  499  mkdir week1
+  500  cd week1/
+  501  ls
+  502  cd
+  503  ls
+  504  cd week1/
+  505  cat ex1.txt
+  506  cat > ex1.txt
+  507  cd
+  508  cd usr
+  509  cd ..
+  510  ls
+  511  cd ..
+  512  cd usr/bin
+  513  grep gcc
+  514  grep gcc
+  515  find -h
+  516  find --h
+  517  find --help
+  518  find gcc
+  519  find gcc > ex1.txt
+  520  sudo find gcc > ex1.txt
+  521  sudo find gcc > ex1.txt -f
+  522  cat ex1.txt
+  523  cat > ex1.txt
+  524  sudo cat > ex1.txt
+  525  cd
+  526  cd
+  527  ls | sort -r | tail -n 3
+  528  cd ..
+  529  cd ..
+  530  cd usr/bin
+  531  ls | sort -r | head -n 3
+  532  find gcc | sort -r | head -n 3
+  533  grep gcc | sort -r | head -n 3
+  534  find gcc | sort -r | head -n 3 | cat > ../../home/ex1.txt
+  535  find gcc | sort -r | head -n 3 |  > ../../home/ex1.txt
+  536  find gcc | sort -r | head -n 3 |  > ../../../home/ex1.txt
+  537  find gcc | sort -r | head -n 3 |  > ../../home/ex1.txt
+  538  cd ../..
+  539  cd
+  540  find gcc | sort -r | head -n 3 |  > /ex1.txt
+  541  find Android | sort -r | head -n 3 |  > /ex1.txt
+  542  sudo find Android | sort -r | head -n 3 |  > /ex1.txt
+  543  nano ex1.txt
+  544  sudo find Android 
+  545  sudo find Android | sort -r | head -n 3 
+  546  sudo find Android | sort -r | head -n 3 |  > /ex1.txt
+  547  ls > ex1.txt
+  548  nano ex1.txt
+  549  sudo find Android | sort -r | head -n 3 |  > ex1.txt
+  550  nano ex1.txt
+  551  sudo find Android | sort -r | head -n 3 
+  552  sudo find Android | sort -r | head -n 3 |  > ex1.txt
+  553  nano ex1.txt
+  554  sudo find Android | sort -r | head -n 3  > ex1.txt
+  555  nano ex1.txt
+  556  cd ../..
+  557  cd usr/
+  558  cd bin/
+  559  sudo find gcc | sort -r |  > ../../home/ex1.txt
+  560  cd
+  561* 
+  562  cd ../../usr/bin/
+  563  sudo find gcc | sort -r |  > /../../home/ex1.txt
+  564  sudo find gcc | sort -r  > ../../home/ex1.txt
+  565  sudo find gcc | sort -r | head -n 3 > ../../home/ex1.txt
+  566  grep gcc stdin
+  567  grep gcc .
+  568  grep gcc 
+  569  grep gcc /
+  570  sudo find gcc | sort -r | head -n 3 > ../../home/ex1.txt
+  571  sudo cat | find gcc | sort -r | head -n 3 > ex1.txt
+  572  sudo find gcc | sort -r | head -n 3 > ../../home/ex1.txt
+  573  sudo find gcc | sort -r | head -n 3 > ../../home/week1/ex1.txt
+  574  sudo find gcc | sort -r | head -n 3 > ../../home/cosmos/week1/ex1.txt
+  575  sudo grep gcc | sort -r | head -n 3 > ../../home/cosmos/week1/ex1.txt
+  576  sudo find gcc | sort -r | head -n 3 > ../../home/cosmos/week1/ex1.txt
+  577  cd
+  578  man -h
+  579  whoami
+  580  hostname
+  581  history
+  582  cat > /week1/ex2.txt
+  583  cd week1/
+  584  cat > ex2.txt
+  585  history > ex2.txt
