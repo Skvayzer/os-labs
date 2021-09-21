@@ -12,7 +12,6 @@ while [ $counter -lt 10 ]; do
     if [ ! -f num.lock ]; then
         ln num.txt num.lock
     else
-        #append
         rm num.lock
     fi
 #     i=$(tail -1 num.txt)
