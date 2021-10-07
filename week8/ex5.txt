@@ -1,0 +1,5 @@
+Virtual address is an imaginary address which points to the real (physical) address in the hardware.
+Virtual and physical memory spaces exist independently.
+Memory Management Unit controls mapping of virtual addresses to physical.
+Virtual and physical spaces can have different sizes/
+Basically there are no any difference left.
