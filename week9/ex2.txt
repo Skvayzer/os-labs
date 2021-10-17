@@ -1,0 +1,3 @@
+1) Increasing or decreasing of cache size may result in increased or decreased hit/miss ratio accordingly
+2) Another page replacement algorithm can change hit/miss ratio in any way
+3) Optimize the order of page referenced somehow (if possible)
