@@ -1,1 +1,34 @@
- 
+// I couldn't find proper comparison of them in the internet and the book, they can differ in multiple ways, but you cannot quite say whether one algorithm is definetely bettern than the other.
+
+Possible methods of recovery from Deadlock:
+  -Preemption
+  -Rollback
+  -Killing processes
+It can be more useful than the others, because it may be faster on the run, but it is really slow in the case of a deadlock (it may somehow rearrange resources or restart processes or recover from checkpoints).
+
+
+Deadlock prevention:
+We have 4 deadlock conditions:
+  - Mutual Exclusion
+  - Hold and Wait
+  - No preemption
+  - Circular wait
+
+We can prevent deadlock by eliminating any of these conditions.
+It prevents deadlocks at all, but requires additional work on the run, which can slow the program.
+
+
+Deadlock avoidance:
+We can avoid unsafe states, the system must be able to decide whether granting a resource is
+safe or not and make the allocation only when it is safe, but it doesn't guarantee completion.
+
+It requires additional work on the run, which can slow the program, but it's faster than the deadlock prevention, i guess.
+
+
+Conclusion:
+If you have enough memory, you may use recovery from deadlock.
+If you don't, use deadlock prevention or deadlock avoidance.
+If you don't use rollback as a recovery, on-the-run performance of recovery is faster than deadlock prevention/avoidance.
+If you cannot allow any deadlock for some reason (maybe you're programming a Mars rover), then use deadlock prevention.
+If can allow a little, use deadlock avoidance.
+
